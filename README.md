@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zeki Furkan Durum</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeki-furkan-durum-701637205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeki furkan durum" height="30" width="40" /></a>
-</p>
+<h1 align="center">Hi, I'm Zeki Furkan Durum</h1>
 
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -34,8 +31,19 @@
 
 </td></tr></table>
 
-<br/>  
+## Connect with me  
+<div align="center">
+<a href="https://github.com/zfurkandurum" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/zeki-furkan-durum-701637205/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+   
+<br/> 
 
+## Github Stats  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zfurkandurum&" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zfurkandurum&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
